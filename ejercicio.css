@@ -1,0 +1,42 @@
+
+  body {
+      background-color: black; color: white;
+   }
+
+   .col-xs-3 {
+      position: fixed;
+      padding-left: 150px;
+      width: 50%;
+      padding-top: 20px;
+   }
+
+   h1 {
+     text-align: center;
+   }
+   #reload{
+     display: inline-block;
+   }
+   #calcular{
+     display: inline-block;
+   }
+   #milochentaynueve {
+     color: yellow;
+     text-align: center;
+   }
+
+
+   #cellRight {
+     text-align: right;
+     color: green;
+     font-size: 16px;
+   }
+
+   #cellLeft {
+     text-align: left;
+   }
+
+   #cellRightResult {
+     text-align: right;
+     color: red;
+     font-size: 18px;
+   }
